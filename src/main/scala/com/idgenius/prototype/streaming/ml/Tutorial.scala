@@ -28,6 +28,6 @@ object Tutorial {
     wordCounts.print()
 
     ssc.start()             // Start the computation
-    ssc.awaitTermination()  // Wait for the computation to terminate
+    ssc.awaitTermination()  // Wait for the computation to terminate 
   }
 }
