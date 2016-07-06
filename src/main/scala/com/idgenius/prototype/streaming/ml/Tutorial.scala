@@ -1,4 +1,4 @@
-package com.idgenius.prototype.streaming
+package com.idgenius.prototype.streaming.ml
 
 import org.apache.spark._
 import org.apache.spark.streaming.{Seconds, StreamingContext}
